@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "fOcDbSL92ubdxNd3poBBYe",
+    "name" : "VCS_PROJ_AUTO_CUSTOM",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-23T20:22:23.129Z",
+  "objectRefs" : [ ]
+}
