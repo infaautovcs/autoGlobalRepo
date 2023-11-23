@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "047lD6x1MN1kiueknUqSKm",
+    "name" : "VCS_PROJ_AUTO_GLOBAL",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-23T22:05:17.535Z",
+  "objectRefs" : [ ]
+}
