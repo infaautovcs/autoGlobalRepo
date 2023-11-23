@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "1JQKsKHo8eHlSpPSOY76qD",
+    "name" : "test",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-23T21:01:20.954Z",
+  "objectRefs" : [ ]
+}
